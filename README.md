@@ -3,8 +3,8 @@ This project explores factors influencing hospital readmission risk using Tablea
 The goal of this project is to understand what factors contribute to higher readmission rates and provide insights that can support better healthcare decision-making.
 📊 Dashboard Preview
 
-![Dashboard](Data-analyst.png)
-
+[![Dashboard](Data-analyst.png)
+](https://github.com/abdulrohman-analytics/hospital-readmission-analysis/blob/main/data-analyst.png)
 # Key Insights
 
 - The majority of patients (77%) were not readmitted, while 23% experienced readmission.
